@@ -26,14 +26,14 @@ Each level has its own file in the `walkthroughs/` directory.
 
 ## 🗂 Repository Structure
 
-overthewire-bandit-walkthroughs/
+overthewire-bandit-walkthroughs/   
 ├── walkthroughs/    
 │├── bandit00.md  
 │├── bandit01.md   
 │├── ...  
 │└── bandit33.md    
 ├── assets/ # Optional screenshots or visuals   
-├── README.md
+├── README.md  
 └── LICENSE
 
 
