@@ -28,10 +28,10 @@ Each level has its own file in the `walkthroughs/` directory.
 
 overthewire-bandit-walkthroughs/   
 ├── walkthroughs/    
-│├── bandit00.md  
-│├── bandit01.md   
+│├── bandit00.pdf  
+│├── bandit01.pdf   
 │├── ...  
-│└── bandit33.md    
+│└── bandit33.pdf    
 ├── assets/ # Optional screenshots or visuals   
 ├── README.md  
 └── LICENSE
